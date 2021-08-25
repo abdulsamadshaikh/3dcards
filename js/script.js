@@ -53,6 +53,6 @@ $(document).ready(function(){
 //Developed by Abdul
 $(document).ready(function(){
     //Developer credit text
-    $("#d-by").append(' <a href="https://www.linkedin.com/in/abdulsamad0fficial/">Developed by Abdul</a>');
+    $("#d-by").append(' <a href="https://getabdulsamad.com/">Developed by Abdul</a>');
     $("#d-by a").attr("target", "_blank");
 });
